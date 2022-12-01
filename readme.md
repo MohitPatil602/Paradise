@@ -20,7 +20,7 @@ This is a web based application developed for a restaurant named PARADISE.
 
 ## Screenshots 📸
 ### Home page -   
-![](img/ss_home.png)![2022-12-01](https://user-images.githubusercontent.com/103365435/205023432-92da3a17-8545-4a85-a027-7ad0d74ad5ab.png)
+![2022-12-01](https://user-images.githubusercontent.com/103365435/205023432-92da3a17-8545-4a85-a027-7ad0d74ad5ab.png)
 
 ###  page -
 ![2022-12-01 (1)](https://user-images.githubusercontent.com/103365435/205023536-43917e80-e8a9-4aa0-8d8d-112169d48561.png)
