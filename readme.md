@@ -22,8 +22,9 @@ This is a web based application developed for a restaurant named PARADISE.
 ### Home page -   
 ![2022-12-01](https://user-images.githubusercontent.com/103365435/205023432-92da3a17-8545-4a85-a027-7ad0d74ad5ab.png)
 
-###  page -
-![2022-12-01 (1)](https://user-images.githubusercontent.com/103365435/205023536-43917e80-e8a9-4aa0-8d8d-112169d48561.png)
+### About the page -
+![2022-12-01 (6)](https://user-images.githubusercontent.com/103365435/205027281-bbf36930-e83b-480a-864e-180805b33c5f.png)
+
 
 ### Team page -
 ![2022-12-01 (3)](https://user-images.githubusercontent.com/103365435/205023932-3511b1f6-3c31-4845-8454-580f5c6268c9.png)
