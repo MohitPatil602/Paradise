@@ -7,7 +7,7 @@ This is a web based application developed for a restaurant named PARADISE.
 
 **Project Link** - https://mohitpatil3884.wixsite.com/mohitpatilparadise-r
 
-**Demo Video** -  https://youtu.be/ed9v2Nv9r-s
+**Demo Video** -  https://youtu.be/lcZTTDCMMzc
 
 ## Features and Functionalities 😃
 
